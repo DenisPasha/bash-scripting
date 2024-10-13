@@ -13,11 +13,6 @@ To run this game, you need:
 
 Bash Shell: The game is written in Bash scripting, so make sure you have a Bash environment. Most Linux and macOS systems have this by default. On Windows, you can use WSL (Windows Subsystem for Linux) or Git Bash.
 
-Getting Started
-Prerequisites
-To run this game, you need:
-
-Bash Shell: The game is written in Bash scripting, so make sure you have a Bash environment. Most Linux and macOS systems have this by default. On Windows, you can use WSL (Windows Subsystem for Linux) or Git Bash.
 Installation
 Clone this repository or download the script:
 
